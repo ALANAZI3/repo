@@ -1,18 +1,18 @@
 
-Package: معرف الاداة 
-Version: الاصدار
+Package: com.Abdulmajeed.hacktextnow
+Version: 0.0.1-1debug
 Architecture: iphoneos-arm
-Maintainer: اكتب اسمك
-Depends: المتطلبات 
+Maintainer: Abdulmajeed
+Depends: firmware (>=12) ,mobilesubstrate
 Conflicts: التعارضات
 Filename: موقع الملف
-Size: 
+Size: 1.3
 MD5sum: 
 SHA1: 
 SHA256: 
 Section: Tweaks
-Depiction: رابط صفحة الوصف 
-Name: اسم  الاداه 
+Depiction: none.com
+Name: hack textnow 
 
 Package: com.cokepokes.appstoreplusplus 
 Version: 0.9.5
